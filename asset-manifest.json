@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AneekGuha/Anni-Blog.git/static/css/main.4e5f2494.css",
+    "main.js": "/AneekGuha/Anni-Blog.git/static/js/main.c0152dc9.js",
+    "index.html": "/AneekGuha/Anni-Blog.git/index.html",
+    "main.4e5f2494.css.map": "/AneekGuha/Anni-Blog.git/static/css/main.4e5f2494.css.map",
+    "main.c0152dc9.js.map": "/AneekGuha/Anni-Blog.git/static/js/main.c0152dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e5f2494.css",
+    "static/js/main.c0152dc9.js"
+  ]
+}
